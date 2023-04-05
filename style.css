@@ -295,7 +295,7 @@ h3 {
     padding-top: 7rem;
     padding-left: 1rem;
     background-color: var(--clr-100);
-    position: absolute;
+    position: fixed;
     top: 0;
     right: 0;
     width: 40vw;
